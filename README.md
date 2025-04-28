@@ -2,7 +2,7 @@
 🌐 Check out my portfolio: [Karri Rohith](https://www.linkedin.com/in/rohith-karri-20b7462bb/)
 
 ## About Me
-🎓 I'm a student at IIITDM Kurnool, currently in my final year of the CSE program, expected to graduate in 2025.
+🎓 I'm a student at IIITDM Kurnool, currently in my final year of the CSE program, graduated in 2025.
 
 💻 I’m passionate about Python, C++, and software development. When I’m not coding, you’ll find me exploring machine learning innovations or playing intense matches of Kabaddi!
 
